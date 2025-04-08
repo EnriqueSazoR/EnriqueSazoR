@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Actualmente estoy aprendiendo... nuevas tecnologías como Node.js, Angular, y todo lo relacionado con el desarrollo web full-stack. Siempre me gusta explorar nuevas herramientas y lenguajes para enriquecer mis habilidades.<br><br>🎯 Metas: Convertirme en un desarrollador web capaz de crear aplicaciones impactantes y eficientes. También tengo la meta de contribuir en proyectos de código abierto y seguir creciendo en la comunidad tecnológica.</p>
+<p align="left">📚 Actualmente estoy aprendiendo... tecnologías relacionadas con el desarrollo web full-stack. Siempre me gusta explorar nuevas herramientas y lenguajes para enriquecer mis habilidades.<br><br>🎯 Metas: Convertirme en un desarrollador web capaz de crear aplicaciones impactantes y eficientes. También tengo la meta de contribuir en proyectos de código abierto y seguir creciendo en la comunidad tecnológica.</p>
 
 ###
 
