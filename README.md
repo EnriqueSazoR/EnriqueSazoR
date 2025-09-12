@@ -33,7 +33,7 @@
   <img width="12" />
   ###
 
-<h3 align="left">🛠 Tecnologias Próximas a aprender</h3>
+<h3 align="left">🛠 Tecnologias Próximas A Aprender</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 <img width="12" />
@@ -41,8 +41,6 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 <img width="12" />
-
-###
 </div>
 
 ###
