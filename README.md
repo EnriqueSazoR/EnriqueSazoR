@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎯 Objetivos<br><br>- Dominar frameworks backend<br>- Profundizar en el diseño y consumo de APIs REST<br>- Mejorar habilidades en bases de datos relacionales<br>- Aprender sobre buenas prácticas de seguridad y testing backend<br>- Participar en proyectos reales que me permitan aplicar y fortalecer mis <br>conocimientos, así como en un futuro adentrarme en tecnologías frontend.</p>
+<p align="left">🎯 Objetivos<br><br>- Dominar frameworks backend<br>- Profundizar en el diseño y consumo de APIs REST<br>- Mejorar habilidades en bases de datos relacionales<br>- Aprender sobre buenas prácticas de seguridad y testing backend<br>- Participar en proyectos reales que me permitan aplicar y fortalecer mis <br>conocimientos <br>-A futuro adentrarme en tecnologías frontend.</p>
 
 ###
 
@@ -29,8 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
+ 
 
 <h3 align="left">🛠 Tecnologias Próximas A Aprender</h3>
 
