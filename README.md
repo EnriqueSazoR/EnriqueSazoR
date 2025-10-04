@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎯 Objetivos<br><br>- Dominar frameworks backend<br>- Profundizar en el diseño y consumo de APIs REST<br>- Mejorar habilidades en bases de datos relacionales<br>- Aprender sobre buenas prácticas de seguridad y testing backend<br>- Participar en proyectos reales que me permitan aplicar y fortalecer mis <br>conocimientos</p>
+<p align="left">🎯 Objetivos<br><br>- Dominar frameworks backend<br>- Profundizar en el diseño y consumo de APIs REST<br>- Mejorar habilidades en bases de datos relacionales<br>- Aprender sobre buenas prácticas de seguridad y testing backend<br>- Participar en proyectos reales que me permitan aplicar y fortalecer mis <br>conocimientos, así como en un futuro adentrarme en tecnologías frontend.</p>
 
 ###
 
@@ -40,6 +40,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
 ###
