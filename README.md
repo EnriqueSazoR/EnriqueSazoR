@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎯 Objetivos<br><br>- Dominar frameworks backend<br>- Profundizar en el diseño y consumo de APIs REST<br>- Mejorar habilidades en bases de datos relacionales<br>- Aprender sobre buenas prácticas de seguridad y testing backend<br>- Participar en proyectos reales que me permitan aplicar y fortalecer mis <br>conocimientos <br>-A futuro adentrarme en tecnologías frontend.</p>
+<p align="left">🎯 Objetivos<br><br>- Dominar frameworks backend<br>- Profundizar en el diseño y consumo de APIs REST<br>- Mejorar habilidades en bases de datos relacionales<br>- Aprender sobre buenas prácticas de seguridad y testing backend<br>- Participar en proyectos reales que me permitan aplicar y fortalecer mis <br>conocimientos <br>- A futuro adentrarme en tecnologías frontend.</p>
 
 ###
 
