@@ -1,45 +1,35 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">¡Hola! Soy Luis Sazo</h1>
 
 ###
 
-<h3 align="left">Soy Luis Sazo, tengo 27 años y actualmente estudio Ingeniería en Sistemas. Me apasiona el desarrollo backend y estoy en constante aprendizaje para construir soluciones eficientes, escalables y bien estructuradas. Me interesa especialmente trabajar con APIs, bases de datos y arquitecturas robustas.</h3>
+<p align="left">🎓 Estudiante de Ingeniería en Sistemas | 💡 En transición hacia la Ciencia de Datos<br><br>Soy un entusiasta del análisis y la programación, apasionado por transformar datos en conocimiento.<br>Comencé mi camino en el desarrollo backend, donde aprendí a diseñar APIs, trabajar con bases de datos relacionales y construir soluciones eficientes.<br>Actualmente estoy orientando mi aprendizaje hacia la ciencia de datos, combinando mis conocimientos de programación con herramientas analíticas para obtener insights y apoyar la toma de decisiones basadas en datos.</p>
 
 ###
 
-<p align="left">🎯 Objetivos<br><br>- Dominar frameworks backend<br>- Profundizar en el diseño y consumo de APIs REST<br>- Mejorar habilidades en bases de datos relacionales<br>- Aprender sobre buenas prácticas de seguridad y testing backend<br>- Participar en proyectos reales que me permitan aplicar y fortalecer mis <br>conocimientos <br>- A futuro adentrarme en tecnologías frontend.</p>
+<p align="left">🎯 Objetivos<br><br>- Profundizar en Python aplicado al análisis y la ciencia de datos.<br>- Aprender sobre estadística, machine learning y limpieza de datos.<br>- Dominar Power BI y Python (pandas, matplotlib, seaborn) para la visualización y análisis.<br>- Fortalecer mi comprensión de bases de datos y su integración con herramientas analíticas.<br>- Participar en proyectos reales de análisis de datos y automatización de reportes.<br>- A futuro, desarrollarme como Científico de Datos, combinando programación, análisis y comunicación de resultados.</p>
 
 ###
 
-<h3 align="left">🛠 Tecnologias Conocidas</h3>
+<p align="left">🧠Habilidades y Tecnologías<br><br>- Lenguajes y herramientas: Python (fundamentos), SQL Server, MySQL, PostgreSQL<br>- Análisis y visualización: Excel, Power BI<br>- Desarrollo y backend: Node.js, Express, ASP.NET Core, API REST<br>- Control de versiones: Git y GitHub</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
- 
-
-<h3 align="left">🛠 Tecnologias Próximas A Aprender</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
