@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧠Habilidades y Tecnologías<br><br>- Lenguajes y herramientas: Python (fundamentos), SQL Server, MySQL, PostgreSQL<br>- Análisis y visualización: Excel, Power BI<br>- Desarrollo y backend: Node.js, Express, ASP.NET Core, API REST<br>- Control de versiones: Git y GitHub</p>
+<p align="left">🧠Habilidades y Tecnologías<br><br>- Lenguajes y herramientas: Python (fundamentos), SQL Server, MySQL, PostgreSQL<br>- Análisis y visualización: Excel, Power BI<br>- Desarrollo y backend: Node.js, Express, .NET, API REST<br>- Control de versiones: Git y GitHub</p>
 
 ###
 
